@@ -23,13 +23,13 @@ The objective of this project is to gain familiarity with scraping and NLP pipel
    - **Parts of Speech Tagging:** Parts of speech were tagged using both rule-based and machine learning approaches to identify the grammatical category of each word in the text.
    - **Named Entity Recognition (NER):** NER methods were applied to identify and classify named entities such as persons, organizations, locations, etc., in the text.
 
-4. **Stemming vs. Lemmatization : **
+4. **Stemming vs. Lemmatization :**
    Stemming reduces words to their root form based on rules without considering the context, which can lead to inaccuracies and the creation of non-words. Lemmatization, on the other hand, maps words to their dictionary form, considering the context and linguistic morphology. While stemming is computationally faster, lemmatization generally provides more accurate results.
 
-5. **Parts of Speech Tagging : **
+5. **Parts of Speech Tagging :**
    Parts of speech tagging helps in understanding the grammatical structure of sentences. Rule-based approaches rely on predefined grammatical rules, while machine learning approaches use annotated training data to predict parts of speech based on contextual information. Each approach has its advantages and limitations depending on the complexity of the language and the availability of annotated data.
 
-6. **Named Entity Recognition (NER) : **
+6. **Named Entity Recognition (NER) :**
    NER is a subtask of information extraction that aims to identify and classify named entities mentioned in text into predefined categories such as persons, organizations, locations, etc. Various methods such as rule-based systems, statistical models, and deep learning techniques can be employed for NER depending on the requirements and available resources.
 
 ### Conclusion
