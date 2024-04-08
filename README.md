@@ -1,4 +1,4 @@
-# NLP-Labs
+# Scraping and NLP Pipeline For Arabic Text
 
 ## Scraping and NLP Pipeline for Arabic Web Sources
 
