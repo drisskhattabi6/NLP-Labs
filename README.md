@@ -1,5 +1,7 @@
 # Scraping and NLP Pipeline For Arabic Text
 
+   NLP_DB1.hespress_posts.json => file contains data in json format, exported from MongoDB
+   
 ## Scraping and NLP Pipeline for Arabic Web Sources
 
 ### Objective
