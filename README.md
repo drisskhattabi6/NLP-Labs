@@ -2,7 +2,7 @@
 
    NLP_DB1.hespress_posts.json => file contains data in json format, exported from MongoDB
 
-   ![MongoDB img](DB img.png)
+   ![MongoDB img](img.png)
    
 ## Scraping and NLP Pipeline for Arabic Web Sources
 
