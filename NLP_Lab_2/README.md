@@ -1,6 +1,3 @@
-Sure, here's an example of what the GitHub readme file might look like:
-
----
 
 # NLP Lab 2: Rule-Based NLP and Word Embedding
 
