@@ -8,3 +8,4 @@ this repo contains my NLP Module Labs, these labs are :
 
 ## => Language Modeling for Regression & Classification
 
+## => Predict the score of text using RNN, Bidirectional RNN GRU and LSTM | Use Transformers (fine turn and generate text using GPT 2) | fine turn and predict of sentiment using BERT
